@@ -8,3 +8,4 @@ Hello,Git!hot-fix
 Hot-Fix!master
 Hot-Fix!hot-fix
 push
+pull
